@@ -44,3 +44,8 @@ then from the keyboard:
 
 ## to run reves on ros (the simulator)
 > > `roslaunch robot_arm_pkg check_motors.launch`
+
+# image for the output:
+<img width="943" alt="robotArm" src="https://user-images.githubusercontent.com/107888642/182565738-954fa24b-e346-40d9-bc44-820126783ce1.png">
+
+
