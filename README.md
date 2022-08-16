@@ -42,7 +42,7 @@ then from the keyboard:
 > > `source ~/.bashrc`
 
 
-## to run Rvis on ros (the simulator)
+## to run Rviz on ros (the simulator)
 > > `roslaunch robot_arm_pkg check_motors.launch`
 
 # image for the output:
